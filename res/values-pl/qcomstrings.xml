@@ -411,7 +411,6 @@
     <string name="pref_camera2_afmode_entry_continuous_picture">Zdjęcia seryjne</string>
     <string name="pref_camera2_afmode_entry_edof">Rozszerzona głębia ostrości</string>
     <string name="pref_camera2_switch_camera_title">Przełączenie kamery na podstawie ID</string>
-    <string name="pref_camera2_switch_camera_title">Przełączenie kamery na podstawie ID</string>
     <string name="pref_camera2_initial_camera_entry_bayer">Filtr Bayera</string>
     <string name="pref_camera2_initial_camera_entry_mono">Monochromatyczny</string>
     <string name="pref_camera2_initial_camera_entry_front">Przód</string>
